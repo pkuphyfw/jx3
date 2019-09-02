@@ -1,0 +1,28 @@
+DPS
+
+1 贴吧宏
+https://tieba.baidu.com/p/6008671079?pid=123671326050&cid=&red_tag=0318436891#123671326050
+附：标准循环宏
+/cast 净世破魔击
+/cast [sun<22&moon<35] 银月斩
+/cast [sun<40] 驱夜断愁
+/cast [sun<60] 烈日斩
+/cast [sun<80] 赤日轮
+/cast [sun<100&moon<100] 幽月轮
+（银月斩选用“额外获得5点月魂”秘籍）
+
+
+
+
+
+T
+1 贴吧宏
+https://tieba.baidu.com/p/5814045668
+在这里给出常用循环的宏：
+/cast 心火叹
+/cast 生死劫
+/cast [moon>=sun] 银月斩
+/cast [sun>moon] 烈日斩
+/cast [sun>=moon&sun<100] 赤日轮
+/cast [moon>sun&moon<100] 幽月轮
+
