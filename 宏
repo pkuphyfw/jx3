@@ -23,3 +23,50 @@ https://tieba.baidu.com/p/5814045668
 /cast [sun>=moon&sun<100] 赤日轮
 /cast [moon>sun&moon<100] 幽月轮
 
+
+
+
+苍云
+
+DPS
+1 贴吧宏
+https://tieba.baidu.com/p/5991639882?fr=good
+起手的打法是：2血怒盾压盾飞斩刀闪刀劫刀x1，等大概很短的一点时间后盾回，这样可以多吃一次飞瀑的怒气又不会浪费gcd，然后盾回盾猛盾飞，
+就可以一直按宏了，此外双血怒需要手动释放
+2血怒-盾压-盾飞-斩刀-闪刀-劫刀-盾回-盾猛-盾飞
+当你使用宏的时候无法盾飞，请释放盾猛并且手动盾飞，如果是起手不盾飞，请按照我说的起手方式后再按宏
+秘籍：血怒3怒1持续，盾飞2会2伤，劫刀1减消耗2伤1会，其余随意
+盾宏：
+/cast [nobuff:血怒] 血怒
+/cast 盾猛
+/cast [rage<41] 盾压
+/cast 盾击
+/cast [rage>20&bufftime:血怒<7|rage>40&bufftime:坚定<6.6] 盾飞
+刀宏：
+/cast [nobuff:血怒] 血怒
+/cast [tnobuff:流血|tbufftime:流血<2] 斩刀
+/cast [tbufftime:流血>17] 闪刀
+/cast 劫刀
+/cast [bufftime:盾飞<0.3] 盾回
+
+
+2 贴吧宏
+https://tieba.baidu.com/p/5991639882?fr=good
+不建议新手使用下边的宏
+另外，如果你看了矮子聚聚的循环贴，并且弄懂了当前版本苍云的循环，建议删除盾飞判定条件，半手动使用宏，输出会更高，
+简单来说就是盾系就只打盾猛，怒气感觉不够的话打盾压，刀系就是斩闪补流血，劫刀补充循环，至于怒气什么时候感觉不够，
+那就要看自己对循环的理解了，此处不再赘述
+盾：
+/cast [nobuff:血怒] 血怒
+/cast [rage<21] 盾压
+/cast 盾猛
+/cast [buff:缓深] 盾压
+/cast [rage>20&bufftime:血怒<7|rage>40&bufftime:坚定<6.6] 盾飞
+刀：
+/cast [nobuff:血怒] 血怒
+/cast [tnobuff:流血|tbufftime:流血<2] 斩刀
+/cast [tbufftime:流血>17] 闪刀
+/cast 劫刀
+/cast [bufftime:盾飞<0.3] 盾回
+
+
