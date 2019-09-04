@@ -90,6 +90,6 @@ T
 附宏：
 /cast [energy>40]寒啸千军 ;或者直接将格挡值判定去掉，好了就打
 /cast [rage>n]盾挡 ;n常用19（纯wifi），54或89
-/cast[energy<65] 盾壁 ;或者去掉此行手动盾壁
+/cast [energy<65] 盾壁 ;或者去掉此行手动盾壁
 /cast 盾压
 /cast 盾刀
