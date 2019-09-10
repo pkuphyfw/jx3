@@ -121,9 +121,9 @@ T
 
 
 
-霸刀:
-「霸刀宏」
-松烟：
+
+霸刀宏
+松烟
 /cast [tnobuff:闹须弥] 闹须弥
 /cast [tbuff:闹须弥&sun>90] 秀明尘身
 /cast [nobuff:上将军印&sun>55] 秀明尘身
@@ -131,19 +131,20 @@ T
 /cast 逐鹰式
 /cast 控鹤式
 /cast 龙骧虎步
-秀明：
+秀明
 /fcast 雷走风切
 /cast 上将军印
 /cast 西楚悲歌
 /cast [bufftime:尘身<=1] 停止释放
 /cast [bufftime:上将军印>2] 雪絮金屏
 /cast [bufftime:上将军印>2&sun<24] 松烟竹雾
-雪絮：
+雪絮
 /cast 坚壁清野
 /cast [sun<5] 松烟竹雾
 /cast [sun<100&nobuff:上将军印|bufftime:上将军印<1.7] 秀明尘身
 /cast [nobuff:砺锋] 醉斩白蛇
 /cast 刀啸风吟
-奇穴方案：
+奇穴方案
 [虎踞] [归酣] [疏狂] [霜天] [啸吒] [砺锋] [分疆] [星火] [楚歌] [绝期] [重烟] [心境]
 擒龙回气秘籍一定要点
+僅供參考，宏唤醒间隔100秒
