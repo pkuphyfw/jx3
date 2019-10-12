@@ -79,20 +79,15 @@ https://tieba.baidu.com/p/5991639882?fr=good
 
 
 3 qq群宏
+盾宏：
 /cast [nobuff:血怒] 血怒
-/cast [tbuff:流血|tbuff:虚弱] 盾猛
+/cast 盾猛
 /cast 盾压
-/cast 盾刀
-/cast [rage>55] 盾飞
-
 刀宏：
-/cast [tbufftime:流血<1.5|tnobuff:流血] 斩刀
-/cast [tbufftime:流血>17] 闪刀
+/cast [tbufftime:流血<1.5] 斩刀
+/cast [tbufftime:流血>17&buff:从容] 闪刀
 /cast 劫刀
 /cast [nobuff:血怒] 血怒
-/cast [rage<10] 盾回
-
-
 
 
 T
