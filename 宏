@@ -83,11 +83,13 @@ https://tieba.baidu.com/p/5991639882?fr=good
 /cast [nobuff:血怒] 血怒
 /cast 盾猛
 /cast 盾压
+/cast [bufftime:坚定<6.6&rage>49|tbufftime:流血<0.5|bufftime:坚定<5.3] 盾飞
 刀宏：
 /cast [tbufftime:流血<1.5] 斩刀
 /cast [tbufftime:流血>17&buff:从容] 闪刀
 /cast 劫刀
 /cast [nobuff:血怒] 血怒
+/cast [bufftime:盾飞<0.3|rage<30] 盾回
 https://tieba.baidu.com/p/5990308815?pid=123408546716&cid=&red_tag=3239538118#123408546716
 
 T
