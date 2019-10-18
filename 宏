@@ -94,6 +94,28 @@ https://tieba.baidu.com/p/5990308815?pid=123408546716&cid=&red_tag=3239538118#12
 
 建议如果手动按的话可以改成0.5，不如很容易把坚定卡了
 
+
+4 qq群纯洁半手动
+盾：
+/cast [nobuff:血怒] 血怒
+/cast 盾猛
+/cast [rage<41] 盾压
+刀：
+/cast [nobuff:血怒] 血怒
+/cast [tnobuff:流血|tbufftime:流血<2] 斩刀
+/cast [tbufftime:流血>18.5] 闪刀
+/cast 劫刀
+/cast [bufftime:盾飞<0.3] 盾回
+ 
+记得自己手动盾飞
+
+木桩视频群文件视频文件夹里有 用的就是这个宏
+怒气打完盾猛怒气大于40就可以直接盾飞了。小于40宏会帮你多打个盾压。
+循环不明白的看我发的木桩视频就行了。
+
+
+
+
 T
 1 https://tieba.baidu.com/p/5986197685?fr=good
 
